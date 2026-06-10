@@ -1,0 +1,6 @@
+{
+  "name": "Guitarra",
+  "description": "Ինտերակտիվ 3D երաժշտական հավելված և խաղ իսպաներենի շեշտադրությունը սովորելու համար (Հայերեն - Իսպաներեն):",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
